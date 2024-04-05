@@ -1,0 +1,3 @@
+export const JWT_CONSTANTS = {
+  Secret: 'AIROAPI32KH430FKSHFL234',
+};
