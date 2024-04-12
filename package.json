@@ -1,12 +1,12 @@
 {
   "name": "my-base-nest-web3",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "author": "",
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-user/repo-url.git"
+    "url": "https://github.com/masternew79/my-base-nest-web3.git"
   },
   "scripts": {
     "prebuild": "rimraf dist",
